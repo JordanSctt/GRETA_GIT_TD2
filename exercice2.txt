@@ -2,5 +2,5 @@ ligne 1: Tout va bien
 ligne 2: Tout va bien
 ligne 3: Tout va bien maintenant
 ligne 4: Tout va bien maintenant
-ligne 5: Il y a un soucis
+ligne 5: C'est corriger entre copain
 ligne 6: Tout va bien
